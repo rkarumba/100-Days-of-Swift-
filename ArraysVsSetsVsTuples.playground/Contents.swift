@@ -5,4 +5,4 @@ let address = (house: 555, street: "Taylor Swift Avenue", city: "Nashville")
 let set = Set(["aardvark", "astronaut", "azalea"])
 
 // Arrays are useful when you want to store a collection of values in a specific order and allow for duplicates.
-let pythons = ["Eric", "Graham", "John", "Michael", "Terry", "Terry"]
+let pythons : Array = ["Eric", "Graham", "John", "Michael", "Terry", "Terry"]
